@@ -1,6 +1,7 @@
 # bmi_calculation_flutter
 
 A new Flutter project.
+
 ![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/bmi_calculation_flutter/master/bmi_screen.png)
 
 ## Getting Started
