@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![In a single picture](https://raw.githubusercontent.com/elhamebrahimpour/bmi_calculation_flutter/master/bmi_screen.png)
+![bmi_ui](https://user-images.githubusercontent.com/94855499/209953941-8e1a0c2e-6259-490e-9d8e-6c47c16ceafc.png)
 
 ## Getting Started
 
